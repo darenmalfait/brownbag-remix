@@ -1,0 +1,7 @@
+.cache
+.history
+build/*
+public/*
+remix.env.d.ts
+node_modules
+dist
